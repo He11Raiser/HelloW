@@ -3,8 +3,8 @@
 int main() {
 int a;
 
-printf("Hello %d", 10);
-printf("Dima");
+printf("Hello %d", 0);
+printf("Dima222");
 
 return 0;
 }
