@@ -4,7 +4,7 @@ int main() {
 int a;
 
 printf("Hello %d", 2);
-return Raiser;
+printf("Dima");
 
 return 0;
 }
