@@ -1,10 +1,13 @@
 #include <stdio.h>
+#include<conio.h>
 
 int main() {
-int a;
+  clrscr();
 
-printf("Hello %d", 0);
-printf("Dima222");
+char a;
+printf("Hello %s",your_name);
 
+  
+getch();
 return 0;
 }
